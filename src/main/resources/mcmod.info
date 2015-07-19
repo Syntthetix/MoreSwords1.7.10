@@ -1,0 +1,16 @@
+[
+{
+  "modid": "swords",
+  "name": "Mo' Swords Mod",
+  "description": "My first original mod, which adds more swords.",
+  "version": "1.3 Final Release",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Syntthetix"],
+  "credits": "I guess just me for coding and texturing the swords and items.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
